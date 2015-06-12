@@ -2,6 +2,5 @@
 .meteor/meteorite
 
 .DS_Store
-versions.json
-.build*
+.versions
 .npm/package/npm-shrinkwrap.json

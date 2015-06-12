@@ -1,0 +1,4 @@
+.DS_Store
+versions.json
+.build*
+.npm/package/npm-shrinkwrap.json

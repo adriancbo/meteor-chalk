@@ -1,7 +1,7 @@
 Package.describe({
   name: 'adriancbo:chalk',
   version: '1.0.0',
-  summary: 'A Tiny Meteor wrapper around the quintessential Chalk.',
+  summary: 'Use the quintessential Chalk in Meteor.',
   git: 'https://github.com/adriancbo/meteor-chalk.git',
   documentation: 'README.md'
 });

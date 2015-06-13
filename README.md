@@ -1,6 +1,6 @@
 ## Chalk for Meteor
 
-A Tiny Meteor wrapper around the quintessential [Chalk](https://github.com/sindresorhus/chalk).
+Use the quintessential [Chalk](https://github.com/sindresorhus/chalk) in Meteor.
 
 **For the server**
 

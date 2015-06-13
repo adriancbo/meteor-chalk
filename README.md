@@ -1,6 +1,6 @@
-## Chalk for Meteor
+## Chalk + Meteor
 
-Use the quintessential [Chalk](https://github.com/sindresorhus/chalk) in Meteor.
+> Colorize your console with [Chalk](https://github.com/sindresorhus/chalk) in Meteor.
 
 **For the server**
 

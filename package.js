@@ -1,7 +1,7 @@
 Package.describe({
   name: 'adriancbo:chalk',
   version: '1.0.0',
-  summary: 'Use the quintessential Chalk in Meteor.',
+  summary: 'Colorize your console with Chalk.',
   git: 'https://github.com/adriancbo/meteor-chalk.git',
   documentation: 'README.md'
 });
